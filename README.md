@@ -23,5 +23,6 @@ document.body.appendChild((()=>{let t=document.createElement("script");return t.
           
           
           
-(()=>{var e=new XMLHttpRequest;e.open("GET","https://cdn.jsdelivr.net/gh/Kosala167/htmlToGmail/html2mail.min.js",!0),e.send(),e.onreadystatechange=function(){4==e.readyState&&200==e.status&&(document.body.appendChild((()=>{let t=document.createElement("script");return t.innerHTML=e.responseText,t})()),console.log(e.responseText))}})();
+(()=>{var e=new XMLHttpRequest;e.open("GET","https://cdn.jsdelivr.net/gh/Kosala167/htmlToGmail/html2mail.min.js",!0),e.send(),e.onreadystatechange=function(){4==e.readyState&&200==e.status&&document.body.appendChild((()=>{let t=document.createElement("script");return t.innerHTML=e.responseText,t})())}})();
+
 
