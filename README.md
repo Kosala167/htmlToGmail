@@ -6,4 +6,4 @@
           
           
                                                             
-document.body.appendChild((()=>{let t=document.createElement("script");return t.src="https://cdn.jsdelivr.net/gh/Kosala167/htmlToGmail/html2mail.js",t})());
+document.body.appendChild((()=>{let t=document.createElement("script");return t.src="https://cdn.jsdelivr.net/gh/Kosala167/htmlToGmail/html2mail.min.js",t})());
