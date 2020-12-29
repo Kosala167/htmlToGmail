@@ -18,7 +18,7 @@ document.body.appendChild((()=>{let t=document.createElement("script");return t.
           
           
           
-          ***************if failed abow code----then try below code ⏎***
+          ***************if failed above code----then try below code ⏎***
           
           
           
