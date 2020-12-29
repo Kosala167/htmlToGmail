@@ -2,7 +2,7 @@
 
 eazy convert html to Gmail text
 
-***simply add below code on the console in gmail tab ⏎***
+1)***simply add below code on the console in gmail tab ⏎***<br>
           
           
                                                             
@@ -10,15 +10,15 @@ eazy convert html to Gmail text
 
 
 
-***then click top left button that named as mailTexter****
-***then add html content in the box appeared after click above button***
-***see magic?
+2)***then click top left button that named as mailTexter****<br>
+3)***then add html content in the box appeared after click above button***<br>
+4)***see magic?<br>
           
           
           
           
           
-***************if failed above code----then try below code ⏎***
+5)***************if failed above code----then try below code ⏎***<br>
           
           
           
